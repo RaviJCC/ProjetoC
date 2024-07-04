@@ -1,0 +1,22 @@
+----- Relatorio de Veiculos -----
+
+Veiculo 1:
+  Tipo: Carro
+  Marca: toyota
+  Modelo: civic
+  Codigo: 1
+
+Veiculo 2:
+  Tipo: Carro
+  Marca: fiat
+  Modelo: mobi
+  Codigo: 2
+
+----- Relatorio de Veiculos -----
+
+Veiculo 1:
+  Tipo: Carro
+  Marca: fiat
+  Modelo: gol
+  Codigo: 3
+
